@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Annie Williams"
 title_separator          : "-"
-subtitle                 : "University of Virginia"
+subtitle                 : # "University of Virginia"
 name                     : "Annie Williams"
 description              : "An amazing website."
 url                      : https://mawilliams098.github.io/
