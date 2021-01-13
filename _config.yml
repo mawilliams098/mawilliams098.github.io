@@ -22,7 +22,7 @@ subtitle                 : # "University of Virginia"
 name                     : "Annie Williams"
 description              : "An amazing website."
 url                      : https://mawilliams098.github.io
-baseurl                  : /mawilliams098.github.io
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mawilliams098/mawilliams098.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/virginia.png"
