@@ -6,4 +6,5 @@ collection: projects
 entries_layout: grid
 classes: wide
 permalink: /projects/
+author_profile: true
 ---
